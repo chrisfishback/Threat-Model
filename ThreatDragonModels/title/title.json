@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "title",
+    "owner": "Chris",
+    "description": "description"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Chris"
+  }
+}
